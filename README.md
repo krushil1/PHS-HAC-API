@@ -1,5 +1,7 @@
+### Created with the help of Sumit Nalavade, Mason Dierkes, & AniruddhAnand
+### FriscoISDHACAPI Repo: https://github.com/SumitNalavade/FriscoISDHACAPI
 
-# FRISCO ISD HAC API
+# Parkland High School HAC API
 
 REST API to scrape student information from Frisco ISD's Home Access Center (HAC) using python requests and Beautiful Soup
 
@@ -9,7 +11,7 @@ Powers the Gradual Grades mobile app developed with @mjdierkes. https://github.c
 
 ----------
 
-Base API URL: https://gradual-deploy.vercel.app
+Base API URL: https://hacapi.herokuapp.com/
 
 Technologies Used:
 -
